@@ -66,5 +66,5 @@ int main() {
 
 3. Check for any missing dependencies or errors reported during the build process.
 
-#Contributing
+# Contributing
 If you find any issues or have improvements to suggest, feel free to open an issue or submit a pull request.
