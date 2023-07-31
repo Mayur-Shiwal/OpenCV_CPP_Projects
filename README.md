@@ -1,4 +1,3 @@
-# FaceDetection_OpenCV
 # OpenCV in Microsoft Visual Studio
 
 This repository provides a simple guide on how to set up OpenCV in Microsoft Visual Studio for C++ projects.
