@@ -59,7 +59,7 @@ int main() {
     return 0;
 }
 ```
-#Troubleshooting
+# Troubleshooting
 1. If you encounter any issues during the setup or build process, refer to the OpenCV documentation (https://docs.opencv.org/) or the CMake documentation (https://cmake.org/documentation/).
 
 2. Ensure that the paths in the CMake configuration are correct and match the locations of the OpenCV libraries on your machine.
